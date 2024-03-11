@@ -1,0 +1,36 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: toko
+Employee Name: John Doe
+Base Pay: $2000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $20.0/hr
+Total Sales in store: $10000.0
+Sales done: $5000.0
+Percentage of sales done: 50.00%
+Gross Payment: $2828.0
+Remaining store revenue: $5714.28
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: tokoooo
+Employee Name: Jane Smith
+Base Pay: $1000.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $15.0/hr
+Sales Rate: 124.0%
+Total commission: $100.0
+Gross Payment: $1625.0
+******************************************************
+Number of employees working as SECURITY GUARDS are: 1
+******************************************************
+1. Security Guard Details:
+Store Details: Jumn
+Employee Name: Bibo
+Base Pay: $1000.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $15.0/hr
+Night Shift: Yes
+Gross Payment: $1575.0

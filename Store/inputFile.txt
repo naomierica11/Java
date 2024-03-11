@@ -1,0 +1,22 @@
+Manager
+toko
+John Doe
+2000.00
+40.00
+20.00
+5000.00
+10000.00
+Sales
+tokoooo
+Jane Smith
+1000.00
+35.00
+15.00
+1.24
+SecurityGuard
+Jumn
+Bibo
+1000.00
+35.00
+15.00
+true
